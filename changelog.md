@@ -1,0 +1,1 @@
+создал файлы с разными расширенниями: main.cs, index.html, script.js
